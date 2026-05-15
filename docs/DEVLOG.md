@@ -7,3 +7,4 @@
 - 2026-05-06 docs: expand readme (25330)
 - 2026-05-12 refactor: extract helper (5833)
 - 2026-05-12 docs: expand readme (27274)
+- 2026-05-15 style: polish colors (1743)
