@@ -14,3 +14,4 @@
 - 2026-05-24 style: tweak padding (26750)
 - 2026-05-25 refactor: extract helper (30653)
 - 2026-05-26 docs: expand readme (6967)
+- 2026-05-26 fix: guard empty title (4983)
