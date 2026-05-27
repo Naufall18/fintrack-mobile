@@ -15,3 +15,4 @@
 - 2026-05-25 refactor: extract helper (30653)
 - 2026-05-26 docs: expand readme (6967)
 - 2026-05-26 fix: guard empty title (4983)
+- 2026-05-27 chore: bump metadata (30494)
