@@ -22,3 +22,4 @@
 - 2026-06-05 style: polish colors (29637)
 - 2026-06-06 test: add manual checklist (17913)
 - 2026-06-07 style: card spacing (21979)
+- 2026-06-09 refactor: extract helper (8705)
