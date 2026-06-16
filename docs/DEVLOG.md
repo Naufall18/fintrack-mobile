@@ -27,3 +27,4 @@
 - 2026-06-12 style: tweak padding (1467)
 - 2026-06-13 style: card spacing (4242)
 - 2026-06-15 style: tweak padding (13100)
+- 2026-06-16 docs: expand readme (28526)
