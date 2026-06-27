@@ -36,3 +36,4 @@
 - 2026-06-25 fix: guard empty title (17476)
 - 2026-06-27 docs: update devlog (29824)
 - 2026-06-27 perf: avoid rebuilds (11543)
+- 2026-06-27 docs: update devlog (2535)
