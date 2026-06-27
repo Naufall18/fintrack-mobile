@@ -34,3 +34,4 @@
 - 2026-06-24 docs: note follow-ups (8446)
 - 2026-06-25 test: add manual checklist (10157)
 - 2026-06-25 fix: guard empty title (17476)
+- 2026-06-27 docs: update devlog (29824)
