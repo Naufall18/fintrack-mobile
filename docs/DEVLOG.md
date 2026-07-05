@@ -40,3 +40,4 @@
 - 2026-07-03 style: polish colors (29253)
 - 2026-07-03 chore: bump metadata (15298)
 - 2026-07-04 refactor: extract helper (1166)
+- 2026-07-05 docs: expand readme (29812)
