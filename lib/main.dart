@@ -50,7 +50,11 @@ class _HomeShellState extends State<HomeShell> {
   @override
   Widget build(BuildContext context) {
     final pages = <Widget>[
-      ItemList(repo: _repo, selector: () => _repo.items),
+      ItemList(
+        repo: _repo,
+        selector: () =>
+            _repo.items.toList()..sort((a, b) => b.value.compareTo(a.value)),
+      ),
       ItemList(
         repo: _repo,
         selector: () =>
