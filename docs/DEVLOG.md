@@ -1,3 +1,4 @@
 - 2026-07-09: housekeeping — license and contributing guide.
 - 2026-07-10: feature work, formatting, and notes.
 - 2026-07-12: test: manual QA pass on core flows [000]
+- 2026-07-12: docs: record edge cases to handle [001]
