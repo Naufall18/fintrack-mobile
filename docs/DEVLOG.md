@@ -2,3 +2,4 @@
 - 2026-07-10: feature work, formatting, and notes.
 - 2026-07-12: test: manual QA pass on core flows [000]
 - 2026-07-12: docs: record edge cases to handle [001]
+- 2026-07-12: docs: record edge cases to handle [002]
