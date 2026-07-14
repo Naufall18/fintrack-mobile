@@ -10,3 +10,4 @@ Notable changes to Fintrack.
 - docs: expand changelog notes (2026-07-12-003)
 - docs: record edge cases to handle (2026-07-14-000)
 - docs: devlog — checked state flow (2026-07-14-001)
+- docs: devlog — checked state flow (2026-07-14-002)
