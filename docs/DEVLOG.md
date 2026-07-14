@@ -7,3 +7,4 @@
 - 2026-07-14: docs: record edge cases to handle [000]
 - 2026-07-14: docs: devlog — checked state flow [001]
 - 2026-07-14: docs: devlog — checked state flow [002]
+- 2026-07-14: style: note spacing adjustments [003]
