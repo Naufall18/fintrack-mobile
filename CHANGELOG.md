@@ -17,3 +17,4 @@ Notable changes to Fintrack.
 - style: note spacing adjustments (2026-07-16-001)
 - docs: note follow-up ideas (2026-07-18-000)
 - docs: clarify readme run steps (2026-07-19-000)
+- docs: devlog — reviewed widget tree (2026-07-19-001)
