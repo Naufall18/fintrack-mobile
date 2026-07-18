@@ -12,3 +12,4 @@
 - 2026-07-16: docs: record edge cases to handle [000]
 - 2026-07-16: style: note spacing adjustments [001]
 - 2026-07-18: docs: note follow-up ideas [000]
+- 2026-07-19: docs: clarify readme run steps [000]

@@ -16,3 +16,4 @@ Notable changes to Fintrack.
 - docs: record edge cases to handle (2026-07-16-000)
 - style: note spacing adjustments (2026-07-16-001)
 - docs: note follow-up ideas (2026-07-18-000)
+- docs: clarify readme run steps (2026-07-19-000)
