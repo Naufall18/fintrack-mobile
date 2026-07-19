@@ -18,3 +18,6 @@ Notable changes to Fintrack.
 - docs: note follow-up ideas (2026-07-18-000)
 - docs: clarify readme run steps (2026-07-19-000)
 - docs: devlog — reviewed widget tree (2026-07-19-001)
+- docs: note follow-up ideas (2026-07-20-000)
+- test: manual QA pass on core flows (2026-07-20-001)
+- docs: devlog — persistence sanity check (2026-07-20-002)
