@@ -14,3 +14,4 @@
 - 2026-07-18: docs: note follow-up ideas [000]
 - 2026-07-19: docs: clarify readme run steps [000]
 - 2026-07-19: docs: devlog — reviewed widget tree [001]
+- 2026-07-20: docs: note follow-up ideas [000]
